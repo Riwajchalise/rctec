@@ -1,28 +1,28 @@
 ######################### Hero Area ##############################
 hero_area:
   background_image : "/assets/images/bg/banner-2.png"
-  subtitle: "Welcome to rcTec"
-  title : "I am a creative <br>UI/UX Designer <br>from London."
-  content : "Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
-  image : "/assets/images/banner/banner-img-2.png"
+  subtitle: "WELCOME TO rcTec"
+  title : "Bespoke Web and App solutions for your business."
+  content : ""
+  image : "/assets/images/banner/banner.png "
   button:
     enable : true
-    label : "contact me"
+    label : "Request a Quotation"
     link : "/contact"
 
 ########################### Service ##############################
 services:
-- title : "Brand Design"
-  icon : "ti-ruler-pencil"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+- title : "Web Development"
+  icon : "ti-layout-slider"
+  content : "Expert web development services for creating dynamic and engaging online experiences."
 
 - title : "Seo & Marketing"
   icon : "ti-announcement"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  content : "Effective SEO & marketing strategies to boost online visibility and drive business growth."
 
-- title : "Creative Design"
-  icon : "ti-palette"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+- title : "Software Solutions"
+  icon : "ti-reload"
+  content : "Tailored software solutions to streamline processes and achieve business goals efficiently."
 
 
 ########################### Testimonial ###########################

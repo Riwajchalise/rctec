@@ -1,14 +1,14 @@
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rctec.co" # the base hostname & protocol for your site, e.g. http://example.com or  https://Dizerjk.netlify.com
-title: "RCTEC a one step solution for you tech problems"
+title: "rcTec a one step solution for you tech problems"
 email: "hey@rctec.co"
 phone: "+21 123 456 5523"
 address: "Melbourne, Australia"
 author: Riwajchalise
 description: >- # this means to ignore newlines
   rcTec - rcTec is a technology company that specializes in developing customized software and websites tailored to meet your specific requirements.
-logo: "/assets/images/logo.png"
-logo_icon: "/assets/images/logo.png"
+logo: "/assets/images/logo.gif"
+logo_icon: "/assets/images/logo.gif"
 # contact form action
 contact_form_action: "#" # works with https://fomrspree.io
 # mailchimp_list: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=342411fb35"
